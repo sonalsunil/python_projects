@@ -1,8 +1,14 @@
-# Temperature Converter
+# Python Mini Projects
 
-A simple Python program that converts temperatures between Celsius, Fahrenheit, and Kelvin.
+A collection of beginner-friendly Python mini projects created to practice Python programming concepts.
 
-## Features
+## Projects
+
+### 1. Temperature Converter
+
+A Python program that converts temperatures between Celsius, Fahrenheit, and Kelvin.
+
+**Features:**
 
 * Celsius to Fahrenheit
 * Fahrenheit to Celsius
@@ -11,19 +17,32 @@ A simple Python program that converts temperatures between Celsius, Fahrenheit, 
 * Fahrenheit to Kelvin
 * Kelvin to Fahrenheit
 
-## Technologies Used
-
-* Python
-
-## How to Run
-
-1. Make sure Python is installed.
-2. Download or clone this repository.
-3. Run the program using:
+**Run:**
 
 ```bash
 python temperature_converter.py
 ```
+
+### 2. Quiz Game
+
+A simple Python quiz game that asks multiple-choice questions and keeps track of the player's score.
+
+**Features:**
+
+* Multiple-choice questions
+* Score tracking
+* User input
+* Displays the final score
+
+**Run:**
+
+```bash
+python quiz_game.py
+```
+
+## Technologies Used
+
+* Python
 
 ## Author
 
