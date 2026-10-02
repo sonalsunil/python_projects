@@ -40,6 +40,25 @@ A simple Python quiz game that asks multiple-choice questions and keeps track of
 python quiz_game.py
 ```
 
+## 3. Password Generator
+
+A Python-based password generator that creates random passwords based on the character types selected by the user.
+
+### Features
+- Custom password length
+- Uppercase letters
+- Lowercase letters
+- Numbers
+- Symbols
+- Input validation
+- Ensures selected character types are included
+- Copies the generated password to the clipboard
+
+### How to Run
+```bash
+python password_generator.py
+
+
 ## Technologies Used
 
 * Python
